@@ -1,21 +1,10 @@
+# Application Néomorphisme avec Flutter
 
+Ce projet est une interface utilisateur utilisant le style néomorphisme, avec des images et des couleurs blanches et noires, pour une apparence minimaliste et élégante.
 
+## Prérequis
 
-# neomorphisme
+- [Flutter](https://flutter.dev/docs/get-started/install) doit être installé sur votre machine.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+## Installation
 https://github.com/user-attachments/assets/521ada98-257a-4b29-9fbb-2f2583c6bbd7
